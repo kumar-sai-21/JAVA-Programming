@@ -1,0 +1,6 @@
+2021-06-12 02:46:34,311 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-12 11:51:15,368 [Worker-29: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-12 12:49:36,204 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-12 12:54:39,062 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-06-12 13:01:38,102 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\saiku\git\GeeksforGeeks\.git]
+2021-06-12 13:03:26,658 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[F:\PROGRAMMING\GFG JAVA program\.git]
