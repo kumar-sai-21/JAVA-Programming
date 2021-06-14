@@ -1,4 +1,4 @@
-# GFG-JAVA
+# JAVA PROGRAMMING
 
 1) Basic Programming
 
