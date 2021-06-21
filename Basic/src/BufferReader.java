@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /*
- * Taking input using Bufferclass  
+ * Taking input using BufferReader  
  */
 public class BufferReader {
 
