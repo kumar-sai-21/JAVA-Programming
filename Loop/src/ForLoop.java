@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /*
- * Print 1 to n number
+ * Print 1 to n number using for loop
  */
 public class ForLoop {
 
