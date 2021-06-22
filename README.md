@@ -1,7 +1,6 @@
 # JAVA PROGRAMMING
 
 1) Basic Programming
-
-2) Pattern Question
-
-3) Loop Queation
+2) Pattern Programming
+3) Loop Programming
+4) Function Programming
